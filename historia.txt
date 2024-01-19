@@ -1,6 +1,10 @@
-Esto es un texto plano para una prueba de platzi 
+Esto es un texto plano para una prueba de platz dentro de una carpeta 
+llamada proyecto1
 
-Soy juan tengo 23 años y estoy estudiando para ser un programador,
+Soy juan Bravo, tengo 23 años y estoy estudiando para ser un programador,
 y nací en venezuela 
 
-Ejecicio #1
+A Juan tambien le gusta la cocina y por eso esta trabajando de eso para
+asi tener ingresos extras 
+
+Ejecicio #2
