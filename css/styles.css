@@ -11,8 +11,20 @@ body {
   width: 70%;
   padding: 1rem;
   border: 2px solid black;
+  padding: 0px;
 }
 
 .container h1 {
   font-size: 20px;
+}
+
+.cabecera {
+  display: flex;
+  gap: 50px;
+  width: auto;
+  padding: 20px 40px 20px 30px;
+  background-color: crimson;
+  -webkit-box-shadow: 2px -2px 17px -4px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px -2px 17px -4px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px -2px 17px -4px rgba(0, 0, 0, 0.5);
 }
