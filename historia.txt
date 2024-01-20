@@ -5,6 +5,9 @@ Soy juan Bravo, tengo 23 años y estoy estudiando para ser un programador,
 y nací en venezuela 
 
 A Juan tambien le gusta la cocina y por eso esta trabajando de eso para
-asi tener ingresos extras 
+asi tener ingresos extras
+
+Este es un curso de de Git y GitHud en donde voy a aprender 
+a moverme por por git de una manera basica
 
 Ejecicio #2
